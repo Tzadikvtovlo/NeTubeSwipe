@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         NeTubeSwipe
 // @namespace    netube-swipe
-// @version      1.3
+// @version      1.4
 // @description  ב-NeTube: עוברים סרטון בהחלקה בלוח המגע / במסך מגע (גם במסך מלא ובפלייליסטים), או עם החצים. מותאם לחסכון במשאבים.
 // @match        https://netube.co.il/*
 // @match        https://*.netube.co.il/*
 // @match        https://www.youtube.com/embed/*
 // @match        https://www.youtube-nocookie.com/embed/*
-// @icon         https://www.google.com/s2/favicons?sz=512&domain=netube.co.il
+// @icon         https://www.google.com/s2/favicons?sz=256&domain=netube.co.il
 // @updateURL    https://raw.githubusercontent.com/Tzadikvtovlo/NeTubeSwipe/main/NeTubeSwipe.user.js
 // @downloadURL  https://raw.githubusercontent.com/Tzadikvtovlo/NeTubeSwipe/main/NeTubeSwipe.user.js
 // @run-at       document-start
